@@ -1,0 +1,12 @@
+# **MORITA**
+
+**Theme for VS Code**
+
+![](2022-01-28-18-38-15.png)
+
+    Color Palette
+		"activityBarBadge.background":
+        Main: 
+            #010003 - #f7eeff - #460b41 - #d2c4da
+
+![](2022-01-28-18-50-59.png)
