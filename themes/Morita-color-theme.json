@@ -55,6 +55,9 @@
 		"input.background": "#180f24",
 		"input.border": "#5203b9",
 		"input.placeholderForeground": "#fff",
+
+		"quickInput.background": "#0c0125e0",
+		"quickInput.foreground": "#fff"
 	},
 	"tokenColors": [
 		{
