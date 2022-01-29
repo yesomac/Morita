@@ -2,9 +2,9 @@
 
 **Theme for VS Code**
 
-![Getting Started](main.png)
+![Getting Started](./img/main.png)
 Photo1
 #
-![Getting Started](code.png)
+![Getting Started](./img/code.png)
 Photo 2
 #
