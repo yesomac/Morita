@@ -12,6 +12,5 @@ Photo 2
 #
 
     Color Palette
-		"activityBarBadge.background":
         Main: 
             #010003 - #f7eeff - #460b41 - #d2c4da
