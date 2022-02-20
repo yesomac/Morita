@@ -20,7 +20,7 @@
         "statusBar.noFolderBackground": "#a704ff",
         "statusBar.debuggingBackground": "#370c5f",
         "badge.background": "#8640c0",
-        "activityBar.activeBackground": "#020007",
+        "activityBar.activeBackground": "#09080D",
         "activityBar.background": "#09080D",
         "activityBar.foreground": "#dbb6ffa9",
         "menu.background": "#09080D",
@@ -149,7 +149,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#fff",
+                "foreground": "#E42575",
                 "fontStyle": "italic bold"
             }
         },

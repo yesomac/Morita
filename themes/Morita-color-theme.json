@@ -57,7 +57,30 @@
 		"input.placeholderForeground": "#fff",
 
 		"quickInput.background": "#0c0125e0",
-		"quickInput.foreground": "#fff"
+		"quickInput.foreground": "#fff",
+
+
+		"editor.findMatchBackground": "#d780ff91",
+		"editor.findMatchHighlightBackground": "#c280ff1e",
+		"editorWidget.background":"#24182F",
+		"editorSuggestWidget.background": "#290729",
+		"editorSuggestWidget.selectedBackground": "#463450a9",
+
+		"activityBarBadge.foreground": "#fff",
+		"sideBarSectionHeader.foreground": "#fff",
+		"focusBorder": "#442f4b",
+		"tab.activeForeground": "#fff",
+		
+		"notifications.background": "#09080D",
+		"list.inactiveSelectionBackground": "#0d0225",
+
+		"settings.textInputBackground": "#220c22",
+		"settings.checkboxBackground": "#220c22",
+		"settings.dropdownBackground": "#220c22",
+		
+		"editor.hoverHighlightBackground": "#24182F",
+		"editorHoverWidget.background": "#24182F",
+		"list.activeSelectionBackground": "#24182F"
 	},
 	"tokenColors": [
 		{
@@ -126,7 +149,7 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
 			],
 			"settings": {
 				"foreground": "#fff",
