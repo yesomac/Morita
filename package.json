@@ -6,6 +6,11 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "keywords": [
+        "Themes",
+        "Morita",
+        "Morita - Light"
+    ],
     "categories": [
         "Themes"
     ],
@@ -15,6 +20,11 @@
                 "label": "Morita",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Morita-color-theme.json"
+            },
+            {
+                "label": "Morita - Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-color-theme-light.json"
             }
         ]
     },
