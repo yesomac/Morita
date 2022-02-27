@@ -28,7 +28,7 @@
         "tab.inactiveBackground": "#09080D",
         "tab.hoverBackground": "#120C18",
         "tab.activeBorder": "#B01526",
-        "editorGroupHeader.tabsBackground": "#09080D",
+        "editorGroupHeader.tabsBackground": "#120C18",
         "editor.lineHighlightBackground": "#24182F",
         "editorIndentGuide.activeBackground": "#611f9b",
         "titleBar.activeBackground": "#09080D",
