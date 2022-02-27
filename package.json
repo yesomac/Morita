@@ -8,8 +8,9 @@
     },
     "keywords": [
         "Themes",
-        "Morita",
-        "Morita - Light"
+        "Morita Night",
+        "Morita Evening",
+        "Morita Day"
     ],
     "categories": [
         "Themes"
@@ -22,9 +23,14 @@
                 "path": "./themes/Morita-color-theme.json"
             },
             {
-                "label": "Morita - Light",
+                "label": "Morita Light",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Morita-color-theme-light.json"
+            },
+            {
+                "label": "Morita Gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-gray-color-theme.json"
             }
         ]
     },
