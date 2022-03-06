@@ -2,7 +2,7 @@
     "name": "morita",
     "displayName": "morita",
     "description": "Theme VSCode",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -10,7 +10,9 @@
         "Themes",
         "Morita Night",
         "Morita Evening",
-        "Morita Day"
+        "Morita Day",
+        "Morita",
+        "Morita Blue"
     ],
     "categories": [
         "Themes"
@@ -31,6 +33,11 @@
                 "label": "Morita Gray",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Morita-gray-color-theme.json"
+            },
+            {
+                "label": "Morita Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-color-blue-theme.json"
             }
         ]
     },
