@@ -4,7 +4,7 @@
     "colors": {
         "editor.background": "#120C18",
         "editor.foreground": "#f7eeff",
-        "activityBarBadge.background": "#E4204C",
+        "activityBarBadge.background": "#000",
         "sideBarTitle.foreground": "#d2c4da",
         "sideBar.foreground": "#d2c4da",
         "sideBar.background": "#09080D",
@@ -24,10 +24,12 @@
         "activityBar.background": "#09080D",
         "activityBar.foreground": "#dbb6ffa9",
         "menu.background": "#09080D",
-        "tab.activeBackground": "#09080D",
+        "tab.activeBackground": "#000",
         "tab.inactiveBackground": "#09080D",
         "tab.hoverBackground": "#120C18",
-        "tab.activeBorder": "#B01526",
+        "tab.activeBorder": "#09080D",
+        "tab.activeBorderTop": "#4c0855",
+        "tab.border": "#09080D",
         "editorGroupHeader.tabsBackground": "#120C18",
         "editor.lineHighlightBackground": "#24182F",
         "editorIndentGuide.activeBackground": "#611f9b",
@@ -60,7 +62,7 @@
 		"editor.findMatchBackground": "#d780ff91",
 		"editor.findMatchHighlightBackground": "#c280ff1e",
 		"editorWidget.background":"#24182F",
-		"editorSuggestWidget.background": "#290729",
+		"editorSuggestWidget.background": "#0c010c",
 		"editorSuggestWidget.selectedBackground": "#463450a9",
 
 		"activityBarBadge.foreground": "#fff",
@@ -77,7 +79,8 @@
 		
 		"editor.hoverHighlightBackground": "#24182F",
 		"editorHoverWidget.background": "#24182F",
-		"list.activeSelectionBackground": "#24182F"
+		"list.activeSelectionBackground": "#24182F",
+        "editor.lineHighlightBorder": "#2c1e3a"
     },
     "tokenColors": [
         {
@@ -149,8 +152,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#E42575",
-                "fontStyle": "italic bold"
+                "foreground": "#E42575"
             }
         },
         {
@@ -161,8 +163,7 @@
                 "markup.deleted.git_gutter"
             ],
             "settings": {
-                "foreground": "#9a85e4",
-                "fontStyle": "bold"
+                "foreground": "#9a85e4"
             }
         },
         {
