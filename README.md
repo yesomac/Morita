@@ -1,5 +1,3 @@
-# **MORITA**
-
 # Morita
 ![This is an image](https://github.com/yesomac/Morita/blob/master/morita.png?raw=true)
 
