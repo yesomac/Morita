@@ -12,7 +12,9 @@
         "Morita Evening",
         "Morita Day",
         "Morita",
-        "Morita Blue"
+        "Morita Blue",
+        "MoritaII",
+        "MoritaIII"
     ],
     "categories": [
         "Themes"
@@ -22,7 +24,12 @@
             {
                 "label": "Morita",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Morita-color-theme.json"
+                "path": "./themes/MoritaIII-color-theme.json"
+            },
+            {
+                "label": "Morita(light)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoritaIII(light)-color-theme.json"
             },
             {
                 "label": "Morita Light",
@@ -38,6 +45,16 @@
                 "label": "Morita Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Morita-color-blue-theme.json"
+            },
+            {
+                "label": "Morita II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-color-theme.json"
+            },
+            {
+                "label": "Morita III",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoritaII-color-theme.json"
             }
         ]
     },
