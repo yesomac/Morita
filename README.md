@@ -15,6 +15,9 @@
 # Morita Green
 ![This is an image](https://github.com/yesomac/Morita/blob/master/img/morita-blue-green.png?raw=true)
 
+# Morita Light
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/morita-light.png?raw=true)
+
 ---
 
 # Morita
