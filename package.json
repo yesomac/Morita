@@ -20,7 +20,8 @@
         "MoritaII",
         "MoritaIII",
         "Morita Green",
-        "Morita Orange"
+        "Morita Orange",
+        "Morita Light"
     ],
     "categories": [
         "Themes"
@@ -31,6 +32,11 @@
                 "label": "Morita",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MoritaIII-color-theme.json"
+            },
+            {
+                "label": "Morita Light",
+                "uiTheme": "vs",
+                "path": "./themes/Morita(light)-color-theme.json"
             },
             {
                 "label": "Morita(light)",
