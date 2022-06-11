@@ -18,7 +18,7 @@
 ---
 
 # Morita
-![This is an image](https://github.com/yesomac/Morita/blob/master/morita_oficial.png?raw=true)
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/morita_oficial.png?raw=true)
 
 # Morita II
 ![This is an image](https://github.com/yesomac/Morita/blob/master/morita.png?raw=true)
@@ -27,19 +27,19 @@
 ![This is an image](https://github.com/yesomac/Morita/blob/master/morita_III.png?raw=true)
 
 # Morita Light
-![This is as image](https://github.com/yesomac/Morita/blob/master/morita_li.png?raw=true)
+![This is as image](https://github.com/yesomac/Morita/blob/master/img/morita_li.png?raw=true)
 
 # Morita Light II
-![This is an image](https://github.com/yesomac/Morita/blob/master/moritalight.png?raw=true)
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/moritalight.png?raw=true)
 
 # Morita Gray
-![This is an image](https://github.com/yesomac/Morita/blob/master/moritagray.png?raw=true)
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/moritagray.png?raw=true)
 
 ## Morita Blue
-![This is an image](https://github.com/yesomac/Morita/blob/master/moritablue.png?raw=true)
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/moritablue.png?raw=true)
 
 #
-![This is an image](https://github.com/yesomac/Morita/blob/master/moritaII.png?raw=true)
+![This is an image](https://github.com/yesomac/Morita/blob/master/img/moritaII.png?raw=true)
 
 ---
 **Fonts:** 
@@ -64,3 +64,5 @@ More Themes
 * https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
