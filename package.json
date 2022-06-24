@@ -89,6 +89,11 @@
                 "path": "./themes/MoritaII-color-theme.json"
             },
             {
+                "label": "Morita IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MoritaIV-color-theme.json"
+            },
+            {
                 "label": "Morita Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MoritaGreen-color-theme.json"
