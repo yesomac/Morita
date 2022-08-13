@@ -111,8 +111,8 @@
     "editorBracketHighlight.foreground1": "#b69b68", //ok
     "editorBracketHighlight.foreground2": "#f59657", //ok
     "editorBracketHighlight.foreground3": "#ffa420", //ok
-    "editorBracketHighlight.foreground4": "#1f5202", //ok
-    "editorBracketHighlight.foreground5": "#067e0c", //ok
+    "editorBracketHighlight.foreground4": "#a3d884", //ok
+    "editorBracketHighlight.foreground5": "#8bf190", //ok
     "editorBracketHighlight.foreground6": "#e7b048", //ok
     "editorBracketMatch.background": "#1902479d", //ok
     "editorBracketMatch.border": "#3c1ad34b", //ok
