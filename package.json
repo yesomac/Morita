@@ -34,6 +34,21 @@
                 "path": "./themes/MoritaIII-color-theme.json"
             },
             {
+                "label": "Morita Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-Sober-color-theme.json"
+            },
+            {
+                "label": "Morita Sober II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-Sober-II-color-theme.json"
+            },
+            {
+                "label": "Morita Sober Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Morita-Sober-III-color-theme.json"
+            },
+            {
                 "label": "Morita Light",
                 "uiTheme": "vs",
                 "path": "./themes/Morita(light)-color-theme.json"
