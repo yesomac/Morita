@@ -81,7 +81,7 @@
     "activityBar.border": "#05010d",
     "activityBar.activeBorder": "#05010d",
     "menu.border": "#05010d",
-    "panel.border": "#05010d",
+    "panel.border": "#2e2938",
     "statusBar.border": "#05010d",
     "notifications.border": "#05010d",
     "editorCursor.foreground": "#ddd",
